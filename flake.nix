@@ -7,12 +7,13 @@
   outputs = {
     self,
     nixpkgs,
-    flake-utils
+    flake-utils,
   }:
     flake-utils.lib.eachDefaultSystem (system: let
-      modifications = (_: prev: {
+      modifications = _: prev: {
         iosevka-matsuri = pkgs.callPackage ./nix {};
-      });
+      };
+
       pkgs = import nixpkgs {
         inherit system;
         overlays = [modifications];

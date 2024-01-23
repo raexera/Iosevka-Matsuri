@@ -1,12 +1,33 @@
-{stdenvNoCC, ...}:
+{
+  lib,
+  stdenvNoCC,
+  ...
+}:
 stdenvNoCC.mkDerivation {
   pname = "iosevka-matsuri";
   version = "git";
+
   src = ../src/.;
-  dontConfigure = true;
+
   installPhase = ''
-    mkdir -pv $out/share/fonts/TTF
-    install -Dvm755 ./IosevkaMatsuri/TTF/*.ttf $out/share/fonts/TTF
-    install -Dvm755 ./IosevkaMatsuriTerm/TTF/*.ttf $out/share/fonts/TTF
+    runHook preInstall
+
+    mkdir -p $out/share/fonts/{truetype,woff2}
+
+    install -Dm644 ./IosevkaMatsuri/TTF/*.ttf  -t $out/share/fonts/truetype
+    install -Dm644 ./IosevkaMatsuri/WOFF2/*.woff2 -t $out/share/fonts/woff2
+
+    install -Dm644 ./IosevkaMatsuriTerm/TTF/*.ttf -t $out/share/fonts/truetype
+    install -Dm644 ./IosevkaMatsuriTerm/WOFF2/*.woff2 -t $out/share/fonts/woff2
+
+    runHook postInstall
   '';
+
+  meta = with lib; {
+    homepage = "https://github.com/rxyhn/Iosevka-Matsuri";
+    description = "Iosevka Matsuri: A comfortable monospace font based on Iosevka Custom Build.";
+    license = licenses.ofl;
+    platforms = platforms.all;
+    maintainers = with maintainers; [rxyhn AlphaTechnolog];
+  };
 }
