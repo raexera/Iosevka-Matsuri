@@ -3,7 +3,6 @@
 family = "Iosevka Matsuri"
 spacing = "normal"
 serifs = "sans"
-noCvSs = true
 exportGlyphNames = true
 
 [buildPlans.IosevkaMatsuri.variants]
@@ -216,7 +215,6 @@ css = "italic"
 family = "Iosevka Matsuri Term"
 spacing = "term"
 serifs = "sans"
-noCvSs = true
 exportGlyphNames = true
 
 [buildPlans.IosevkaMatsuriTerm.variants]
