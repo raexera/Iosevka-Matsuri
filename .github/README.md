@@ -10,7 +10,7 @@ A comfortable monospace font based on Iosevka Custom Build.
 
 ![ligatures](./assets/ligatures.png)
 
-#### How to Use the Font
+## How to Use the Font
 
 To utilize this font, follow the steps below:
 
