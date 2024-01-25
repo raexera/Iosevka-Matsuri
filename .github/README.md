@@ -1,6 +1,13 @@
 # Iosevka Matsuri 祭り
 
-A comfortable monospace font based on Iosevka Custom Build.
+Iosevka Matsuri is a remarkable monospace font based on the Iosevka Custom Build,
+offering a delightful and comfortable typography experience for programmers and terminal users.
+With its unique rounded-like font design and visually pleasing rounded edges, it stands out as an
+elegant choice for extended coding sessions. Meticulously crafted for smoothness, it ensures
+optimal legibility even at small sizes commonly used in programming and terminal applications.
+Iosevka Matsuri's emphasis on comfort and readability is evident through its well-defined characters,
+consistent spacing, and clear representation of code. This versatile font combines aesthetics and
+functionality, providing a delightful typographic experience.
 
 ## Preview
 
@@ -47,3 +54,10 @@ To utilize this font, follow the steps below:
 3. Open a terminal window and run `fc-cache -vf` to refresh the fonts cache.
 
 Now you can enjoy the beautiness of the Iosevka Matsuri font on your desired applications or terminal!
+
+## Maintainers
+
+If you appreciate Iosevka Matsuri, please consider starring the repository to express your admiration for the font.
+
+- [rxyhn](https://github.com/rxyhn)
+- [AlphaTechnolog](https://github.com/AlphaTechnolog)
