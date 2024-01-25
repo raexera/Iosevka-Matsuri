@@ -14,7 +14,7 @@ A comfortable monospace font based on Iosevka Custom Build.
 
 - Download the zip or clone this repository
 - Font files are inside of the [src](../src/)
-  - These includes TTF, WOFF(2), and CSS files.
+  - These includes TTF and WOFF(2)
   - In the src folder you'll find two versions of the font which are:
     - IosevkaMatsuri: Optimised for almost every application.
     - IosevkaMatsuri: Pretty much suitable mostly for terminal usage
