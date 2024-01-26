@@ -1,6 +1,11 @@
-# Iosevka Matsuri 祭り
+<p align="center">
+<img src="./assets/banner-dark.svg#gh-light-mode-only" title="Iosevka Matsuri Grand Title"/>
+<img src="./assets/banner-light.svg#gh-dark-mode-only" title="Iosevka Matsuri Grand Title"/>
+</p>
 
-Iosevka Matsuri is a remarkable monospace font based on the Iosevka Custom Build,
+------------  
+
+**Iosevka Matsuri (祭り)** is a remarkable monospace font based on the **Iosevka Custom Build**,
 offering a delightful and comfortable typography experience for programmers and terminal users.
 With its unique rounded-like font design and visually pleasing rounded edges, it stands out as an
 elegant choice for extended coding sessions. Meticulously crafted for smoothness, it ensures
@@ -31,7 +36,7 @@ To utilize this font, follow the steps below:
 **Step 3: Choose the Font Version**
 - Inside the src folder, you will find two versions of the font:
   - IosevkaMatsuri: Optimized for various applications.
-  - IosevkaMatsuri: Primarily suitable for terminal usage.
+  - IosevkaMatsuriTerm: Primarily suitable for terminal usage.
 
 **Step 4: Install the Font**
 - Depending on your operating system, follow the instructions below:
@@ -55,9 +60,7 @@ To utilize this font, follow the steps below:
 
 Now you can enjoy the beautiness of the Iosevka Matsuri font on your desired applications or terminal!
 
-## Maintainers
-
-If you appreciate Iosevka Matsuri, please consider starring the repository to express your admiration for the font.
+## Humans
 
 - [rxyhn](https://github.com/rxyhn)
 - [AlphaTechnolog](https://github.com/AlphaTechnolog)
