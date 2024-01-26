@@ -41,22 +41,62 @@ This is a preview of the font. includes **regular** and **italic** font variants
 
 # Installation
 
-## Manual Installation
-
+<!-- Start Installation for linux -->
 <details>
 <summary>
 Linux
+</summary>
+
+<details>
+<summary>
+NixOS
 </summary>
 ToDo
 </details>
 
 <details>
 <summary>
+Arch Linux
+</summary>
+ToDo
+</details>
+
+<details>
+<summary>
+BugBuntu
+</summary>
+ToDo
+</details>
+
+<details>
+<summary>
+Gentoo
+</summary>
+ToDo
+</details>
+</details>
+<!-- End Installation for linux -->
+
+<details>
+<summary>
 MacOS
 </summary>
-<a href="http://support.apple.com/kb/HT2509">
-Follow instructions here
-</a>
+
+<h3>
+Install via brew
+</h3>
+
+```sh
+$ brew install iosevka-mayukai
+```
+
+<h3>
+Manual Installation
+</h3>
+
+Download the font, clone the repo balblablablablabblablabl
+then: <a href="http://support.apple.com/kb/HT2509"> Follow instructions here </a>
+
 </details>
 
 <details>
