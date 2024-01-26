@@ -3,7 +3,7 @@
 <img src="./assets/banner/light.svg#gh-dark-mode-only" title="Iosevka Matsuri Banner"/>
 </p>
 
-------------  
+------------
 
 **Iosevka Matsuri (祭り)** is a remarkable monospace font based on the **Iosevka Custom Build**,
 offering a delightful and comfortable typography experience for programmers and terminal users.
@@ -41,7 +41,7 @@ This is a preview of the font. includes **regular** and **italic** font variants
 
 # Installation
 
-To utilize this font, follow the steps below:
+## Manual Installation
 
 <details>
 <summary>
