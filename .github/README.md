@@ -47,40 +47,51 @@ This is a preview of the font. includes **regular** and **italic** font variants
     Linux
   </summary>
 
+  <h3>
+    Install via package manager
+  </h3>
+
+
   <ul style="list-style-type: none;">
     <li>
       <details>
         <summary>
-        NixOS
+        Nix
         </summary>
-        ToDo
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc at tristique eros, sagittis elementum mauris. Etiam vehicula tempor ipsum. Praesent quis nibh iaculis, accumsan est nec, eleifend lorem. Duis scelerisque leo sit amet ligula ornare convallis. In a convallis arcu, id mollis orci. Nam blandit, sapien eu suscipit feugiat, turpis lacus condimentum lectus, quis consectetur turpis massa vel lacus. Sed eget turpis volutpat, tempus nisl et, tristique elit. Integer pharetra, erat quis sodales pellentesque, massa sem sodales est, vitae cursus erat magna id risus. Sed vitae pellentesque ante, ut porttitor lorem.
       </details>
     </li>
     <li>
       <details>
         <summary>
-        Arch Linux
+        AUR
         </summary>
-        ToDo
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc at tristique eros, sagittis elementum mauris. Etiam vehicula tempor ipsum. Praesent quis nibh iaculis, accumsan est nec, eleifend lorem. Duis scelerisque leo sit amet ligula ornare convallis. In a convallis arcu, id mollis orci. Nam blandit, sapien eu suscipit feugiat, turpis lacus condimentum lectus, quis consectetur turpis massa vel lacus. Sed eget turpis volutpat, tempus nisl et, tristique elit. Integer pharetra, erat quis sodales pellentesque, massa sem sodales est, vitae cursus erat magna id risus. Sed vitae pellentesque ante, ut porttitor lorem.
       </details>
     </li>
     <li>
       <details>
         <summary>
-        Ubuntu
+        APT
         </summary>
-        ToDo
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc at tristique eros, sagittis elementum mauris. Etiam vehicula tempor ipsum. Praesent quis nibh iaculis, accumsan est nec, eleifend lorem. Duis scelerisque leo sit amet ligula ornare convallis. In a convallis arcu, id mollis orci. Nam blandit, sapien eu suscipit feugiat, turpis lacus condimentum lectus, quis consectetur turpis massa vel lacus. Sed eget turpis volutpat, tempus nisl et, tristique elit. Integer pharetra, erat quis sodales pellentesque, massa sem sodales est, vitae cursus erat magna id risus. Sed vitae pellentesque ante, ut porttitor lorem.
       </details>
     </li>
     <li>
       <details>
         <summary>
-        Gentoo
+        Portage
         </summary>
-        ToDo
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc at tristique eros, sagittis elementum mauris. Etiam vehicula tempor ipsum. Praesent quis nibh iaculis, accumsan est nec, eleifend lorem. Duis scelerisque leo sit amet ligula ornare convallis. In a convallis arcu, id mollis orci. Nam blandit, sapien eu suscipit feugiat, turpis lacus condimentum lectus, quis consectetur turpis massa vel lacus. Sed eget turpis volutpat, tempus nisl et, tristique elit. Integer pharetra, erat quis sodales pellentesque, massa sem sodales est, vitae cursus erat magna id risus. Sed vitae pellentesque ante, ut porttitor lorem.
       </details>
     </li>
   </ul>
+
+  <h3>
+    Manual Installation
+  </h3>
+
+  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc at tristique eros, sagittis elementum mauris. Etiam vehicula tempor ipsum. Praesent quis nibh iaculis, accumsan est nec, eleifend lorem. Duis scelerisque leo sit amet ligula ornare convallis. In a convallis arcu, id mollis orci. Nam blandit, sapien eu suscipit feugiat, turpis lacus condimentum lectus, quis consectetur turpis massa vel lacus. Sed eget turpis volutpat, tempus nisl et, tristique elit. Integer pharetra, erat quis sodales pellentesque, massa sem sodales est, vitae cursus erat magna id risus. Sed vitae pellentesque ante, ut porttitor lorem.
 </details>
 <!-- End Installation for linux -->
 
@@ -110,7 +121,9 @@ then: <a href="http://support.apple.com/kb/HT2509"> Follow instructions here </a
 <summary>
 Windows
 </summary>
-ToDo
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc at tristique eros, sagittis elementum mauris. Etiam vehicula tempor ipsum. Praesent quis nibh iaculis, accumsan est nec, eleifend lorem. Duis scelerisque leo sit amet ligula ornare convallis. In a convallis arcu, id mollis orci. Nam blandit, sapien eu suscipit feugiat, turpis lacus condimentum lectus, quis consectetur turpis massa vel lacus. Sed eget turpis volutpat, tempus nisl et, tristique elit. Integer pharetra, erat quis sodales pellentesque, massa sem sodales est, vitae cursus erat magna id risus. Sed vitae pellentesque ante, ut porttitor lorem.
+
 </details>
 
 # Usage
