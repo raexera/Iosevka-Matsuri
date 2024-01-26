@@ -54,7 +54,9 @@ ToDo
 <summary>
 MacOS
 </summary>
-ToDo
+<a href="http://support.apple.com/kb/HT2509">
+Follow instructions here
+</a>
 </details>
 
 <details>
