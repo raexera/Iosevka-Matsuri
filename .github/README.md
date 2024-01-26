@@ -43,37 +43,44 @@ This is a preview of the font. includes **regular** and **italic** font variants
 
 <!-- Start Installation for linux -->
 <details>
-<summary>
-Linux
-</summary>
+  <summary>
+    Linux
+  </summary>
 
-<details>
-<summary>
-NixOS
-</summary>
-ToDo
-</details>
-
-<details>
-<summary>
-Arch Linux
-</summary>
-ToDo
-</details>
-
-<details>
-<summary>
-BugBuntu
-</summary>
-ToDo
-</details>
-
-<details>
-<summary>
-Gentoo
-</summary>
-ToDo
-</details>
+  <ul style="list-style-type: none;">
+    <li>
+      <details>
+        <summary>
+        NixOS
+        </summary>
+        ToDo
+      </details>
+    </li>
+    <li>
+      <details>
+        <summary>
+        Arch Linux
+        </summary>
+        ToDo
+      </details>
+    </li>
+    <li>
+      <details>
+        <summary>
+        Ubuntu
+        </summary>
+        ToDo
+      </details>
+    </li>
+    <li>
+      <details>
+        <summary>
+        Gentoo
+        </summary>
+        ToDo
+      </details>
+    </li>
+  </ul>
 </details>
 <!-- End Installation for linux -->
 
