@@ -1,6 +1,6 @@
 <p align="center">
-<img src="./assets/banner-dark.svg#gh-light-mode-only" title="Iosevka Matsuri Grand Title"/>
-<img src="./assets/banner-light.svg#gh-dark-mode-only" title="Iosevka Matsuri Grand Title"/>
+<img src="./assets/banner/dark.svg#gh-light-mode-only" title="Iosevka Matsuri Banner"/>
+<img src="./assets/banner/light.svg#gh-dark-mode-only" title="Iosevka Matsuri Banner"/>
 </p>
 
 ------------  
@@ -14,53 +14,61 @@ Iosevka Matsuri's emphasis on comfort and readability is evident through its wel
 consistent spacing, and clear representation of code. This versatile font combines aesthetics and
 functionality, providing a delightful typographic experience.
 
-## Preview
+# Preview
 
-![preview](./assets/preview.png)
+This is a preview of the font. includes **regular** and **italic** font variants as well as the **ligatures**.
 
-![preview-italic](./assets/preview-italic.png)
+## Regular
 
-![ligatures](./assets/ligatures.png)
+<p align="center">
+<img src="./assets/preview/regular/dark.svg#gh-light-mode-only" title="Iosevka Matsuri Preview"/>
+<img src="./assets/preview/regular/light.svg#gh-dark-mode-only" title="Iosevka Matsuri Preview"/>
+</p>
 
-## How to Use the Font
+## Italic
+
+<p align="center">
+<img src="./assets/preview/italic/dark.svg#gh-light-mode-only" title="Iosevka Matsuri Preview (Italic)"/>
+<img src="./assets/preview/italic/light.svg#gh-dark-mode-only" title="Iosevka Matsuri Preview (Italic)"/>
+</p>
+
+## Ligatures
+
+<p align="center">
+<img src="./assets/preview/ligatures/dark.svg#gh-light-mode-only" title="Iosevka Matsuri Preview (Ligatures)"/>
+<img src="./assets/preview/ligatures/light.svg#gh-dark-mode-only" title="Iosevka Matsuri Preview (Ligatures)"/>
+</p>
+
+# Installation
 
 To utilize this font, follow the steps below:
 
-**Step 1: Download the Font**
-- You can either download the zip file or clone the repository.
+<details>
+<summary>
+Linux
+</summary>
+ToDo
+</details>
 
-**Step 2: Locate the Font Files**
-- Once you have downloaded the font, navigate to the [src](../src/) folder.
-- In the src folder, you will find TTF and WOFF(2) font files.
+<details>
+<summary>
+MacOS
+</summary>
+ToDo
+</details>
 
-**Step 3: Choose the Font Version**
-- Inside the src folder, you will find two versions of the font:
-  - IosevkaMatsuri: Optimized for various applications.
-  - IosevkaMatsuriTerm: Primarily suitable for terminal usage.
+<details>
+<summary>
+Windows
+</summary>
+ToDo
+</details>
 
-**Step 4: Install the Font**
-- Depending on your operating system, follow the instructions below:
+# Usage
 
-**MacOS**
-1. Open the Font Book application.
-2. Drag and drop the TTF files of the desired font into the Font Book to install.
-3. Restart the applications where you want to use the font. Alternatively, you can restart your system for safety.
+ToDo
 
-**Windows**
-1. Right-click on the TTF files.
-2. Select "Install" to install the fonts.
-3. Choose whether to install the fonts for your user only or for every user.
-4. Windows will proceed with the installation of Iosevka Matsuri.
-
-**Linux**
-1. Copy the TTF files.
-2. Paste the files into `$HOME/.local/share/fonts` if you want to install them for the current user only.
-   - Alternatively, paste the files into `/usr/share/fonts` if you want to install them for every user.
-3. Open a terminal window and run `fc-cache -vf` to refresh the fonts cache.
-
-Now you can enjoy the beautiness of the Iosevka Matsuri font on your desired applications or terminal!
-
-## Humans
+# Humans
 
 - [rxyhn](https://github.com/rxyhn)
 - [AlphaTechnolog](https://github.com/AlphaTechnolog)
