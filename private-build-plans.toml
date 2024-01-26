@@ -1,8 +1,11 @@
+# ---------------------------------------------------
 # Iosevka Matsuri (祭り)
-#
+# Build Plans
+# ---------------------------------------------------
 # author: @rxyhn (rxyhn.dev@gmail.com)
 # license: SIL Open Font License 1.1
 # homepage: https://github.com/rxyhn/Iosevka-Matsuri
+# ---------------------------------------------------
 
 [buildPlans.IosevkaMatsuri]
 family = "Iosevka Matsuri"
