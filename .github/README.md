@@ -42,7 +42,7 @@ This is a preview of the font. includes **regular** and **italic** font variants
 </tbody>
 </table>
 
-------------
+<br>
 
 <table>
 <thead>
@@ -68,7 +68,7 @@ This is a preview of the font. includes **regular** and **italic** font variants
 </tbody>
 </table>
 
-------------
+<br>
 
 <table>
 <thead>
