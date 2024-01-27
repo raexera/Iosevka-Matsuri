@@ -18,26 +18,75 @@ functionality, providing a delightful typographic experience.
 
 This is a preview of the font. includes **regular** and **italic** font variants as well as the **ligatures**.
 
-## Regular
+<table>
+<thead>
+  <tr>
+    <th style="text-align: center" colspan="2">Regular<br></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>
+    <p align="center">
+      <img src="./assets/preview/regular/dark.svg#gh-light-mode-only" title="Iosevka Matsuri Preview"/>
+      <img src="./assets/preview/regular/light.svg#gh-dark-mode-only" title="Iosevka Matsuri Preview"/>
+    </p>
+    </td>
+    <td >    
+    <p align="center">
+      <img src="./assets/preview/characters/regular/dark.svg#gh-light-mode-only" title="Iosevka Matsuri Preview"/>
+      <img src="./assets/preview/characters/regular/light.svg#gh-dark-mode-only" title="Iosevka Matsuri Preview"/>
+    </p>
+    </td>
+  </tr>
+</tbody>
+</table>
 
-<p align="center">
-<img src="./assets/preview/regular/dark.svg#gh-light-mode-only" title="Iosevka Matsuri Preview"/>
-<img src="./assets/preview/regular/light.svg#gh-dark-mode-only" title="Iosevka Matsuri Preview"/>
-</p>
+------------
 
-## Italic
+<table>
+<thead>
+  <tr>
+    <th style="text-align: center" colspan="2">Italic<br></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>
+    <p align="center">
+      <img src="./assets/preview/characters/italic/dark.svg#gh-light-mode-only" title="Iosevka Matsuri Preview (Italic)"/>
+      <img src="./assets/preview/characters/italic/light.svg#gh-dark-mode-only" title="Iosevka Matsuri Preview (Italic)"/>
+    </p>
+    </td>
+    <td >    
+    <p align="center">
+      <img src="./assets/preview/italic/dark.svg#gh-light-mode-only" title="Iosevka Matsuri Preview (Italic)"/>
+      <img src="./assets/preview/italic/light.svg#gh-dark-mode-only" title="Iosevka Matsuri Preview (Italic)"/>
+    </p>
+    </td>
+  </tr>
+</tbody>
+</table>
 
-<p align="center">
-<img src="./assets/preview/italic/dark.svg#gh-light-mode-only" title="Iosevka Matsuri Preview (Italic)"/>
-<img src="./assets/preview/italic/light.svg#gh-dark-mode-only" title="Iosevka Matsuri Preview (Italic)"/>
-</p>
+------------
 
-## Ligatures
-
-<p align="center">
-<img src="./assets/preview/ligatures/dark.svg#gh-light-mode-only" title="Iosevka Matsuri Preview (Ligatures)"/>
-<img src="./assets/preview/ligatures/light.svg#gh-dark-mode-only" title="Iosevka Matsuri Preview (Ligatures)"/>
-</p>
+<table>
+<thead>
+  <tr>
+    <th style="text-align: center">Ligatures<br></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>
+    <p align="center">
+      <img src="./assets/preview/ligatures/dark.svg#gh-light-mode-only" title="Iosevka Matsuri Preview (Ligatures)"/>
+      <img src="./assets/preview/ligatures/light.svg#gh-dark-mode-only" title="Iosevka Matsuri Preview (Ligatures)"/>
+    </p>
+    </td>
+  </tr>
+</tbody>
+</table>
 
 # Installation
 
