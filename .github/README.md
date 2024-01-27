@@ -16,8 +16,6 @@ functionality, providing a delightful typographic experience.
 
 # Preview
 
-This is a preview of the font. includes **regular** and **italic** font variants as well as the **ligatures**.
-
 <table>
 <thead>
   <tr>
