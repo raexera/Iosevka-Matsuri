@@ -18,25 +18,25 @@ functionality, providing a delightful typographic experience.
 
 <table>
 <thead>
-  <tr>
-    <th style="text-align: center" colspan="2">Regular<br></th>
-  </tr>
+<tr>
+<th style="text-align: center" colspan="2">Regular<br></th>
+</tr>
 </thead>
 <tbody>
-  <tr>
-    <td>
-    <p align="center">
-      <img src="./assets/preview/regular/dark.svg#gh-light-mode-only" title="Iosevka Matsuri Preview"/>
-      <img src="./assets/preview/regular/light.svg#gh-dark-mode-only" title="Iosevka Matsuri Preview"/>
-    </p>
-    </td>
-    <td >    
-    <p align="center">
-      <img src="./assets/preview/characters/regular/dark.svg#gh-light-mode-only" title="Iosevka Matsuri Preview"/>
-      <img src="./assets/preview/characters/regular/light.svg#gh-dark-mode-only" title="Iosevka Matsuri Preview"/>
-    </p>
-    </td>
-  </tr>
+<tr>
+<td>
+<p align="center">
+<img src="./assets/preview/regular/dark.svg#gh-light-mode-only" title="Iosevka Matsuri Preview"/>
+<img src="./assets/preview/regular/light.svg#gh-dark-mode-only" title="Iosevka Matsuri Preview"/>
+</p>
+</td>
+<td >    
+<p align="center">
+<img src="./assets/preview/characters/regular/dark.svg#gh-light-mode-only" title="Iosevka Matsuri Preview"/>
+<img src="./assets/preview/characters/regular/light.svg#gh-dark-mode-only" title="Iosevka Matsuri Preview"/>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 
@@ -44,25 +44,25 @@ functionality, providing a delightful typographic experience.
 
 <table>
 <thead>
-  <tr>
-    <th style="text-align: center" colspan="2">Italic<br></th>
-  </tr>
+<tr>
+<th style="text-align: center" colspan="2">Italic<br></th>
+</tr>
 </thead>
 <tbody>
-  <tr>
-    <td>
-    <p align="center">
-      <img src="./assets/preview/characters/italic/dark.svg#gh-light-mode-only" title="Iosevka Matsuri Preview (Italic)"/>
-      <img src="./assets/preview/characters/italic/light.svg#gh-dark-mode-only" title="Iosevka Matsuri Preview (Italic)"/>
-    </p>
-    </td>
-    <td >    
-    <p align="center">
-      <img src="./assets/preview/italic/dark.svg#gh-light-mode-only" title="Iosevka Matsuri Preview (Italic)"/>
-      <img src="./assets/preview/italic/light.svg#gh-dark-mode-only" title="Iosevka Matsuri Preview (Italic)"/>
-    </p>
-    </td>
-  </tr>
+<tr>
+<td>
+<p align="center">
+<img src="./assets/preview/characters/italic/dark.svg#gh-light-mode-only" title="Iosevka Matsuri Preview (Italic)"/>
+<img src="./assets/preview/characters/italic/light.svg#gh-dark-mode-only" title="Iosevka Matsuri Preview (Italic)"/>
+</p>
+</td>
+<td >    
+<p align="center">
+<img src="./assets/preview/italic/dark.svg#gh-light-mode-only" title="Iosevka Matsuri Preview (Italic)"/>
+<img src="./assets/preview/italic/light.svg#gh-dark-mode-only" title="Iosevka Matsuri Preview (Italic)"/>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 
@@ -70,19 +70,19 @@ functionality, providing a delightful typographic experience.
 
 <table>
 <thead>
-  <tr>
-    <th style="text-align: center">Ligatures<br></th>
-  </tr>
+<tr>
+<th style="text-align: center">Ligatures<br></th>
+</tr>
 </thead>
 <tbody>
-  <tr>
-    <td>
-    <p align="center">
-      <img src="./assets/preview/ligatures/dark.svg#gh-light-mode-only" title="Iosevka Matsuri Preview (Ligatures)"/>
-      <img src="./assets/preview/ligatures/light.svg#gh-dark-mode-only" title="Iosevka Matsuri Preview (Ligatures)"/>
-    </p>
-    </td>
-  </tr>
+<tr>
+<td>
+<p align="center">
+<img src="./assets/preview/ligatures/dark.svg#gh-light-mode-only" title="Iosevka Matsuri Preview (Ligatures)"/>
+<img src="./assets/preview/ligatures/light.svg#gh-dark-mode-only" title="Iosevka Matsuri Preview (Ligatures)"/>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 
@@ -90,55 +90,122 @@ functionality, providing a delightful typographic experience.
 
 <!-- Start Installation for linux -->
 <details>
-  <summary>
-    Linux
-  </summary>
+<summary>
+Linux
+</summary>
 
-  <h3>
-    Install via package manager
-  </h3>
+<h3>Install via package manager</h3>
 
+<ul style="list-style-type: none;">
+<li>
+<details>
+<summary>
+NixOS
+</summary>
 
-  <ul style="list-style-type: none;">
-    <li>
-      <details>
-        <summary>
-        Nix
-        </summary>
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc at tristique eros, sagittis elementum mauris. Etiam vehicula tempor ipsum. Praesent quis nibh iaculis, accumsan est nec, eleifend lorem. Duis scelerisque leo sit amet ligula ornare convallis. In a convallis arcu, id mollis orci. Nam blandit, sapien eu suscipit feugiat, turpis lacus condimentum lectus, quis consectetur turpis massa vel lacus. Sed eget turpis volutpat, tempus nisl et, tristique elit. Integer pharetra, erat quis sodales pellentesque, massa sem sodales est, vitae cursus erat magna id risus. Sed vitae pellentesque ante, ut porttitor lorem.
-      </details>
-    </li>
-    <li>
-      <details>
-        <summary>
-        AUR
-        </summary>
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc at tristique eros, sagittis elementum mauris. Etiam vehicula tempor ipsum. Praesent quis nibh iaculis, accumsan est nec, eleifend lorem. Duis scelerisque leo sit amet ligula ornare convallis. In a convallis arcu, id mollis orci. Nam blandit, sapien eu suscipit feugiat, turpis lacus condimentum lectus, quis consectetur turpis massa vel lacus. Sed eget turpis volutpat, tempus nisl et, tristique elit. Integer pharetra, erat quis sodales pellentesque, massa sem sodales est, vitae cursus erat magna id risus. Sed vitae pellentesque ante, ut porttitor lorem.
-      </details>
-    </li>
-    <li>
-      <details>
-        <summary>
-        APT
-        </summary>
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc at tristique eros, sagittis elementum mauris. Etiam vehicula tempor ipsum. Praesent quis nibh iaculis, accumsan est nec, eleifend lorem. Duis scelerisque leo sit amet ligula ornare convallis. In a convallis arcu, id mollis orci. Nam blandit, sapien eu suscipit feugiat, turpis lacus condimentum lectus, quis consectetur turpis massa vel lacus. Sed eget turpis volutpat, tempus nisl et, tristique elit. Integer pharetra, erat quis sodales pellentesque, massa sem sodales est, vitae cursus erat magna id risus. Sed vitae pellentesque ante, ut porttitor lorem.
-      </details>
-    </li>
-    <li>
-      <details>
-        <summary>
-        Portage
-        </summary>
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc at tristique eros, sagittis elementum mauris. Etiam vehicula tempor ipsum. Praesent quis nibh iaculis, accumsan est nec, eleifend lorem. Duis scelerisque leo sit amet ligula ornare convallis. In a convallis arcu, id mollis orci. Nam blandit, sapien eu suscipit feugiat, turpis lacus condimentum lectus, quis consectetur turpis massa vel lacus. Sed eget turpis volutpat, tempus nisl et, tristique elit. Integer pharetra, erat quis sodales pellentesque, massa sem sodales est, vitae cursus erat magna id risus. Sed vitae pellentesque ante, ut porttitor lorem.
-      </details>
-    </li>
-  </ul>
+You can use this repository as a flake of your NixOS configuration and then use the exposed package at `packages.default`, take the next code snippet as a sample of a nixos system which installs iosevka-matsuri.
 
-  <h3>
-    Manual Installation
-  </h3>
+```nix
+{
+  inputs = {
+    nixpkgs.url = "github:nixos/nixpkgs";
+    iosevka-matsuri.url = "github:rxyhn/iosevka-matsuri";
+  };
 
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc at tristique eros, sagittis elementum mauris. Etiam vehicula tempor ipsum. Praesent quis nibh iaculis, accumsan est nec, eleifend lorem. Duis scelerisque leo sit amet ligula ornare convallis. In a convallis arcu, id mollis orci. Nam blandit, sapien eu suscipit feugiat, turpis lacus condimentum lectus, quis consectetur turpis massa vel lacus. Sed eget turpis volutpat, tempus nisl et, tristique elit. Integer pharetra, erat quis sodales pellentesque, massa sem sodales est, vitae cursus erat magna id risus. Sed vitae pellentesque ante, ut porttitor lorem.
+  outputs = { self, nixpkgs, ... } @ inputs: let
+    system = "x86_64-linux";
+  in {
+    nixosConfigurations.sampleConfiguration = nixpkgs.lib.nixosSystem {
+      inherit system;
+      modules = [
+        {
+          fonts.packages = [
+            inputs.iosevka-matsuri.packages."${system}".default
+          ];
+        }
+      ];
+    };
+  };
+}
+```
+
+Then one would have to use the `Iosevka Matsuri` or `Iosevka Matsuri Term` font family in your apps configuration in order to enable it
+
+</details>
+</li>
+<li>
+<details>
+<summary>
+AUR
+</summary>
+
+> ![WARNING]
+> Upcoming
+
+</details>
+</li>
+<li>
+<details>
+<summary>
+APT
+</summary>
+
+> ![WARNING]
+> Upcoming
+
+</details>
+</li>
+<li>
+<details>
+<summary>
+Portage
+</summary>
+
+> ![WARNING]
+> Upcoming
+
+</details>
+</li>
+<li>
+<details>
+<summary>
+Manual
+</summary>
+
+In linux you can manually install the font by following the next instructions:
+
+1. Clone the repository
+
+```sh
+git clone https://github.com/rxyhn/iosevka-matsuri.git --depth=1
+cd iosevka-matsuri
+```
+
+2. Install the fonts files
+
+```sh
+mkdir -pv ~/.local/share/fonts
+cp -rvf ./src/IosevkaMatsuri{,Term}/TTF/*.ttf ~/.local/share/fonts
+```
+
+> [!TIP]
+> You can replace `~/.local/share/fonts` to `/usr/share/fonts` if you prefer installing them all system wide (for every user).
+
+3. Refresh the fonts cache
+
+```sh
+fc-cache -vf
+```
+
+</details>
+</li>
+</ul>
+
+<h3>
+Manual Installation
+</h3>
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc at tristique eros, sagittis elementum mauris. Etiam vehicula tempor ipsum. Praesent quis nibh iaculis, accumsan est nec, eleifend lorem. Duis scelerisque leo sit amet ligula ornare convallis. In a convallis arcu, id mollis orci. Nam blandit, sapien eu suscipit feugiat, turpis lacus condimentum lectus, quis consectetur turpis massa vel lacus. Sed eget turpis volutpat, tempus nisl et, tristique elit. Integer pharetra, erat quis sodales pellentesque, massa sem sodales est, vitae cursus erat magna id risus. Sed vitae pellentesque ante, ut porttitor lorem.
 </details>
 <!-- End Installation for linux -->
 
