@@ -95,7 +95,7 @@ git clone https://github.com/rxyhn/iosevka-matsuri.git --depth=1
 cd iosevka-matsuri
 ```
 
-Then take action depending on your operating system. by following the instructions below:
+Then take action depending on your operating system by following the instructions below:
 
 ## Linux
 
