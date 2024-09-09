@@ -120,7 +120,10 @@ fc-cache -vf
 
 ## Windows
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, diam id tincidunt dapibus, nisl nibh ultricies nunc, quis aliquam
+1. Download the font files from the repository as shown above.
+2. Extract the .ttf font files from the src folder.
+3. Right-click on each of the font files (IosevkaMatsuri and IosevkaMatsuriTerm) and select Install. Alternatively, you can select multiple fonts, right-click, and choose Install for all users to make the fonts available system-wide.
+4. After the installation is complete, the fonts will be available in your applications.
 
 # Usage
 
