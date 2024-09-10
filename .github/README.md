@@ -127,7 +127,7 @@ fc-cache -vf
 
 # Usage
 
-To apply the font, simply set the font family to either `Iosevka Matsuri` or `Iosevka Matsuri Term` in your preferred editor or terminal emulator.
+To apply the font, simply set the font family to either `Iosevka Matsuri` or `Iosevka Matsuri Term` (nerd fonts versions are also provided, set the font family to either `IosevkaMatsuri Nerd Font` or `IosevkaMatsuriTerm Nerd Font`) in your preferred editor or terminal emulator.
 
 # Humans
 
