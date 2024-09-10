@@ -1,0 +1,41 @@
+name: Build Nerd Fonts
+
+on:
+    push:
+
+jobs:
+    build:
+        runs-on: ubuntu-latest
+
+        steps:
+            - name: Checkout repository
+              uses: actions/checkout@v2
+              with:
+                submodules: recursive
+
+            - name: Update submodules
+              run: |
+                git submodule update --remote --recursive
+
+            - name: Setup python
+              uses: actions/setup-python@v2
+              with:
+                python-version: 3.8
+
+            - name: Install FontForge
+              run: |
+                sudo apt-get update
+                sudo apt-get install -y fontforge
+
+            - name: Run patcher script
+              run: |
+                chmod +x ./scripts/patcher/patcher.sh
+                ./scripts/patcher/patcher.sh
+
+            - name: Commit and push changes
+              run: |
+                git config --global user.name 'GitHub Action'
+                git config --global user.email 'action@github.com'
+                git add src
+                git commit -m 'feat: Update Nerd Fonts' || echo 'warn: No changes to commit!'
+                git push
