@@ -24,10 +24,10 @@ stdenvNoCC.mkDerivation {
   '';
 
   meta = with lib; {
-    homepage = "https://github.com/rxyhn/Iosevka-Matsuri";
+    homepage = "https://github.com/raexera/Iosevka-Matsuri";
     description = "Iosevka Matsuri: A comfortable monospace font based on Iosevka Custom Build.";
     license = licenses.ofl;
     platforms = platforms.all;
-    maintainers = with maintainers; [rxyhn AlphaTechnolog];
+    maintainers = with maintainers; [raexera AlphaTechnolog];
   };
 }

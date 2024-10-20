@@ -91,7 +91,7 @@ functionality, providing a delightful typographic experience.
 Before installing the font, first you need to download the font files. You can download the font by cloning the repository.
 
 ```sh
-git clone https://github.com/rxyhn/iosevka-matsuri.git --depth=1
+git clone https://github.com/raexera/iosevka-matsuri.git --depth=1
 cd iosevka-matsuri
 ```
 
@@ -131,5 +131,5 @@ To apply the font, simply set the font family to either `Iosevka Matsuri` or `Io
 
 # Humans
 
-- [rxyhn](https://github.com/rxyhn)
+- [raexera](https://github.com/raexera)
 - [AlphaTechnolog](https://github.com/AlphaTechnolog)

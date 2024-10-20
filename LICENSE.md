@@ -1,5 +1,5 @@
 Copyright (c) 2015-2024, Renzhi Li (aka. Belleve Invis, belleve@typeof.net),
-Copyright (c) 2023-2024, Rxyhn (rxyhn.dev@gmail.com),
+Copyright (c) 2023-2024, Raexera (raexera@gmail.com),
 with Reserved Custom Iosevka Build "Iosevka Matsuri".
 
 
